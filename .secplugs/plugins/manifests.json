@@ -1,0 +1,13 @@
+[
+        {
+                "name" : "power_automate",
+                "type" : "generic",
+                "title" : "Power Automate",
+                "description" : "Run security analysis tasks from within your work flows",
+                "summary_html" : "@.secplugs/plugins/power_automate/summary.html",
+                "detail_html" : "@.secplugs/plugins/power_automate/detail.html",
+                "small_image" : "@.secplugs/plugins/power_automate/small_image.png",
+                "normal_image" : "@.secplugs/plugins/power_automate/normal_image.png"
+        }
+       
+]
