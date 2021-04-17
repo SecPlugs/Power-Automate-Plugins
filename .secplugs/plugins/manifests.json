@@ -4,7 +4,7 @@
     "type":"generic",
     "title":"Power Automate",
     "created_by":"Secplugs",
-    "description":"Run security analysis tasks from within your work flows",
+    "description":"Run security analysis tasks from within your Microsoft Power Automate work flows",
     "content":{
       "summary":"https://secplugs.github.io/Power-Automate-Plugins/docs/summary.html",
       "detail":"https://secplugs.github.io/Power-Automate-Plugins/docs/detail.html"
