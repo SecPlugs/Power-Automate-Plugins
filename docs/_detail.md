@@ -12,7 +12,7 @@ This plugin provides the connector and templates needed to send documents and  l
 
 The plugin provides working templates ready for you to import and use.
 
-#### How do I get started?</h5>
+#### How do I get started?
 
 Download the templates and follow the instructions to get it installed and then take a look at the examples.
 
