@@ -3,6 +3,7 @@
 ![Daily Test](https://github.com/SecPlugs/Power-Automate-Plugins/workflows/DailyTest/badge.svg)
 
 # Power-Automate-Plugins
+
 For Microsoft Power Automate and related plugins
 
 ## Usage & More Info
