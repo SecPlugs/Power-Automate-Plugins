@@ -6,7 +6,7 @@
 For Microsoft Power Automate and related plugins
 
 ## Usage & More Info
-See the [Java Kit GitHub Pages](https://secplugs.github.io/Power-Automate-Plugins/docs) for usage and other information
+See the [Power Automate Plugin Pages](https://secplugs.github.io/Power-Automate-Plugins/docs) for usage and other information
 
 ## Repository Layout
 This repository is laid out as follows..
