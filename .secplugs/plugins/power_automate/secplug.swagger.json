@@ -181,7 +181,7 @@
             "in": "header",
             "name": "x-api-key",
             "type": "string",
-            "default": "GW5sb8sj8D9CtvVrjsTC22FNljxhoVuL1UoM6fFL",
+            "default": "36tfpWdW3b6RVKNv0FhIQ7tnOkUokwKM8RfAUVV5",
             "required": false,
             "description": "Secplug API Key",
             "x-ms-summary": "Secplug API Key"
