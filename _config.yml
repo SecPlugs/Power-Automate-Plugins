@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
-title: Secplugs Power Automate
-description: Run security analysis tasks from within your Microsoft Power Automate work flows
-google_analytics: G-4MB8SZYEBR
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true

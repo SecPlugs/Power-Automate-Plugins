@@ -7,14 +7,5 @@
 For Microsoft Power Automate and related plugins
 
 ## Usage & More Info
-See the [Power Automate Plugin Pages](https://secplugs.github.io/Power-Automate-Plugins/docs) for usage and other information
-
-## Repository Layout
-This repository is laid out as follows..
-
-| Folder        | Description |
-| ------------- |:-------------| 
-| .secplugs     | contains the meta data to import into the Secplugs portal |
-| scripts       | core scripts that use the Secplugs platform      |
-| build         | build, package and publish scripts  |
+See the [Power Automate Docs](https://{brand-root-domain}/index.php/docs?plugin=plugin-secplugs-plugins-power-automate) for usage and other information
 
