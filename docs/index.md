@@ -4,6 +4,7 @@ layout: none
 Power Automate connectors to send docs, emails and attachments for analysis in your work flows.  
 GDrive and GMail, Drop Box, and Exchange templates also provided.
 
+Also see [Power Automate Listing](/plugin-list/plugin-secplugs-plugins-power-automate)
 
 ## Usage
 You use this {brand-plugin} within the context of Microsoft Power Automate platform
