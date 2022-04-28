@@ -3,7 +3,7 @@ layout: none
 ---
 #### What is the Power Automate Plugin?
 
-This plugin provides the connector and templates needed to send documents and  links for analysis in your Microsoft Power Automate work flows.
+This {brand-plugin-type} provides the connector and templates needed to send documents and  links for analysis in your Microsoft Power Automate work flows.
 
 #### What are the features?
 
@@ -17,10 +17,9 @@ The plugin provides working templates ready for you to import and use.
 
 #### How do I get started?
 
-Download the templates and follow the instructions to get it installed and then take a look at the examples.
+See the [Power Automate Docs](https://{brand-root-domain}/index.php/plugin-list/plugin-secplugs-plugins-power-automate) for usage and other information
 
 To use additional features and the privacy of your own account, after registering in Secplugs.com, login with your username and create an API key to use with the scripts. 
 Replace the key in the samples or create new scripts using these as an example.
-Use can then use the Secplugs console to view activity, run reports and do deeper retrospective threat analysis.
+Use can then use the {brand-name} console to view activity, run reports and do deeper retrospective threat analysis.
 
-See the [Power Automate Docs](https://scancloud.io/index.php/plugin-list/plugin-secplugs-plugins-power-automate) for usage and other information

@@ -1,15 +1,19 @@
 ---
 layout: none
 ---
+# Power Automate {brand-plugin-type}
 Power Automate connectors to send docs, emails and attachments for analysis in your work flows.  
 GDrive and GMail, Drop Box, and Exchange templates also provided.
 
 Also see [Power Automate Listing](/plugin-list/plugin-secplugs-plugins-power-automate)
 
 ## Usage
-You use this {brand-plugin} within the context of Microsoft Power Automate platform
+You use this {brand-plugin-type} within the context of Microsoft Power Automate platform
 
 ### Scan A File
+
+To get started follow the [Get Started Steps](https://powerautomate.microsoft.com/en-us/templates/details/3ff6c875a7b943a88c89116a8bfb3db0/scan-newly-added-files-in-sharepoint-using-secplugs/)
+on the Microsoft Power Automate portal.
 
 #### Parameters
 Use the following parameters to scan an email
@@ -48,6 +52,9 @@ The following is returned
 
 
 ### Scan Email
+
+To get started follow the [Get Started Steps](https://powerautomate.microsoft.com/en-us/connectors/details/shared_secplugscan/secplugs-scan/)
+on the Microsoft Power Automate portal.
 
 #### Parameters
 
