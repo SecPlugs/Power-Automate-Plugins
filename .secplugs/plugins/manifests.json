@@ -2,8 +2,8 @@
   {
     "name":"power_automate",
     "type":"generic",
-    "title":"Power Automate",
-    "created_by":"Secplugs",
+    "title":"Power Automate Connector",
+    "created_by":"ScanCloud.io",
     "description":"Run security analysis tasks from within your Microsoft Power Automate work flows",
     "content":{
       "summary":"https://secplugs.github.io/Power-Automate-Plugins/docs/summary.html",
