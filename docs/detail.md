@@ -17,7 +17,7 @@ The plugin provides working templates ready for you to import and use.
 
 #### How do I get started?
 
-See the [Power Automate Docs](https://{brand-root-domain}/index.php/plugin-list/plugin-secplugs-plugins-power-automate) for usage and other information
+See the [Power Automate Docs](https://{brand-root-domain}/index.php/docs?plugin=plugin-secplugs-plugins-power-automate) for usage and other information
 
 To use additional features and the privacy of your own account, after registering in Secplugs.com, login with your username and create an API key to use with the scripts. 
 Replace the key in the samples or create new scripts using these as an example.
