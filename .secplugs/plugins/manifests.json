@@ -5,6 +5,7 @@
     "title":"Power Automate Connector",
     "created_by":"ScanCloud.io",
     "description":"Scan documents and emails in your Power Automate flows for malware and malicious content",
+    "default_layout":"ad_landing_1.php",
     "content":{
       "summary":"https://secplugs.github.io/Power-Automate-Plugins/docs/summary.html",
       "detail":"https://secplugs.github.io/Power-Automate-Plugins/docs/detail.html"
@@ -12,6 +13,7 @@
     "images":{
       "small":"@.secplugs/plugins/power_automate/small_image.png",
       "normal":"@.secplugs/plugins/power_automate/normal_image.png",
+      "how_it_works":"@.secplugs/plugins/power_automate/how_it_works_image.svg",
       "gallery":[
         
       ]
